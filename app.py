@@ -22,7 +22,6 @@ import xml.etree.ElementTree as ET
 
 import pandas as pd
 import streamlit as st
-import plotly.express as px
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
